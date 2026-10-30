@@ -1,7 +1,12 @@
 # Hi, I'm gwbsd
+**📫 Contact (联系方式):**
 - Yunhao Zhang
-- 邮箱：yhzhang0602@buaa.edu.cn
-记录笔记、小项目，以及学习成长过程。
+- **Email:** yhzhang0602@buaa.edu.cn
+- **Affiliation (机构):** BUAA
+  
+---
+
+- 记录笔记、小项目，以及学习成长过程。
 
 ## 当前学习方向
 
